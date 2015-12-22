@@ -1,0 +1,19 @@
+{
+  "name": "angular-initial-structure",
+  "description": "Initial skeleton of application.",
+  "authors": [
+    "mmartyniuk"
+  ],
+  "license": "ISC",
+  "homepage": "https://github.com/mmartyniuk/angular-initial-structure",
+  "moduleType": [],
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components"
+  ],
+  "dependencies": {
+    "angular-route": "~1.4.8",
+    "angular": "~1.4.8"
+  }
+}

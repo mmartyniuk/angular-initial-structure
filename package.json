@@ -1,0 +1,24 @@
+{
+  "name": "angular-initial-structure",
+  "version": "0.0.1",
+  "description": "Initial skeleton of application.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mmartyniuk/angular-initial-structure.git"
+  },
+  "author": "mmartyniuk",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mmartyniuk/angular-initial-structure/issues"
+  },
+  "homepage": "https://github.com/mmartyniuk/angular-initial-structure#readme",
+  "devDependencies": {
+    "browser-sync": "^2.10.1",
+    "gulp": "^3.9.0",
+    "gulp-inject": "^3.0.0"
+  }
+}
